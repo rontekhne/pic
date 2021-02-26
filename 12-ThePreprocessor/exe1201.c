@@ -4,5 +4,3 @@
  * in the text.
  * by Ron, Feb 2021 */
 
-/* This is  a test */
-
